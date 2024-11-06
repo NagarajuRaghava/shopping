@@ -1,4 +1,4 @@
-import MenuItem from "../components/MenuItem";
+import MenuItem from "../components/menu-item/MenuItem";
 import "./home-page.style.css";
 
 const HomePage = (props) => {
